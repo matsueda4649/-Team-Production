@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - BackGround
+  - Obstacle
+  - Mob
+  - PlayerController
+  - Planet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Enemy
+  - NotPlayer
+  - NotEnemy
+  - Mob
+  - BlackMask
+  - BackGround
+  - NotPlayerObstacle
+  - PlayerFoots
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2724093597
+    locked: 0
+  - name: BlackMask
+    uniqueID: 1133252103
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2452324945
+    locked: 0
+  - name: Character
+    uniqueID: 4144276497
+    locked: 0
+  - name: Effect
+    uniqueID: 2424264251
+    locked: 0
+  - name: UI
+    uniqueID: 1468326001
+    locked: 0
+  - name: _Obstacle
+    uniqueID: 2759599223
+    locked: 0

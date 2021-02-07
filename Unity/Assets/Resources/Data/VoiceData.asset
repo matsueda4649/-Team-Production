@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54efd3ff6e9be874d9b87277224e8636, type: 3}
+  m_Name: VoiceData
+  m_EditorClassIdentifier: 
+  m_dataAudioList:
+  - id: 1001
+    name: voice1001
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "Player\u30B8\u30E3\u30F3\u30D7\u97F3"
+  - id: 2001
+    name: voice2001
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u5927\u306A\u308A,\u5C0F\u306A\u308A"
+  - id: 2002
+    name: voice2002
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u30A2\u30B9\u30BF\u30EA\u30B9\u30AF"
+  - id: 2003
+    name: voice2003
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u30CF\u30C3\u30B7\u30E5"
+  - id: 2004
+    name: voice2004
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u30B7\u30E3\u30FC\u30D7\u3001\u30D5\u30E9\u30C3\u30C8"
+  - id: 2005
+    name: voice2005
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u9B3C( \u3053\u3093\u68D2\u653B\u6483 )"
+  - id: 2006
+    name: voice2006
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u9B3C( \u89D2\u98DB\u3070\u3057 )"
+  - id: 2007
+    name: voice2007
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u5F13\u3092\u98DB\u3070\u3059"
+  - id: 2008
+    name: voice2008
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u592A\u9F13"
+  - id: 2009
+    name: voice2009
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u7206\u767A"
+  - id: 2010
+    name: voice2010
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u30D3\u30FC\u30E0"
+  - id: 2011
+    name: voice2011
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u30D1\u30C3"
+  - id: 2012
+    name: voice2012
+    icon: {fileID: 0}
+    onLoop: 0
+    explanation: "\u95C7\u653B\u6483\u3000\uFF1F"

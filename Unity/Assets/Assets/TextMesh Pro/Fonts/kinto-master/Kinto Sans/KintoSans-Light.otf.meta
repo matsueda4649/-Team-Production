@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: f7fa953bceb6a29438ff3253e28f2b57
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kinto Sans
+  fontNames:
+  - Kinto Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c9ab9172c3514a04f835ae85c1599d77, type: 3}
+  - {fileID: 12800000, guid: 74250663270ef1749958f9016cac4649, type: 3}
+  - {fileID: 12800000, guid: e0cc5c4941f4b0f44b19dc6a94aada2f, type: 3}
+  - {fileID: 12800000, guid: 86102bba6950dcb4ca7ae9674b5c9683, type: 3}
+  - {fileID: 12800000, guid: 38a3a8ea45f479a45975b463f58d8290, type: 3}
+  - {fileID: 12800000, guid: 53542f0c9d3d821488936a4152076ec7, type: 3}
+  - {fileID: 12800000, guid: cfaaca8cb2970594ba2ba61d07329e91, type: 3}
+  - {fileID: 12800000, guid: afbe495e1f615554f8f7812c11f8ff11, type: 3}
+  - {fileID: 12800000, guid: c57acfaf5ed0ffb48a911a958995d398, type: 3}
+  - {fileID: 12800000, guid: 9a918edfa3107c147a32652e69f41425, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

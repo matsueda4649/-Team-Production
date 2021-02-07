@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58319e9d1b4078542a722093c2fcc438, type: 3}
+  m_Name: U.F.O_Attack
+  m_EditorClassIdentifier: 
+  m_attackTime: 3
+  m_recoveryTime: 2.5
+  m_stanTime: 2

@@ -1,0 +1,30 @@
+SortLayer
+BackGrounds
+	BackGround	-150
+	Tree	-145
+	Cloud	-140
+
+Characters
+	Player	100
+
+	Items
+		Sprite	10
+		Particle 15
+
+	Enemy 
+		white 50
+		red	55
+		Character 60
+
+Obstacles
+	GoalZone 10
+	Wall	20
+	Object	30
+	Ground	40
+
+Effect 
+	Snow	110 
+
+
+
+Sprite 200 * 200

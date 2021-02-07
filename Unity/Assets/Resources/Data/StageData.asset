@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86791d0a488af314fa20dce176d70d4f, type: 3}
+  m_Name: StageData
+  m_EditorClassIdentifier: 
+  m_dataStageList:
+  - id: 1001
+    name: Stage1-1
+    icon: {fileID: 21300000, guid: 4f49e220b3abbea4a8ac8b33f01fafbb, type: 3}
+    limitTime: 50
+    nextId: 1002
+    audio: 4
+    allow: 0
+  - id: 1002
+    name: Stage1-2
+    icon: {fileID: 21300000, guid: 4f49e220b3abbea4a8ac8b33f01fafbb, type: 3}
+    limitTime: 50
+    nextId: 1003
+    audio: 4
+    allow: 0
+  - id: 1003
+    name: Stage1-3
+    icon: {fileID: 21300000, guid: 4f49e220b3abbea4a8ac8b33f01fafbb, type: 3}
+    limitTime: 50
+    nextId: 3001
+    audio: 4
+    allow: 0
+  - id: 3001
+    name: Stage3-1
+    icon: {fileID: 21300000, guid: d28368c3c3127014eacde0b5f7181b4d, type: 3}
+    limitTime: 50
+    nextId: 3002
+    audio: 6
+    allow: 0
+  - id: 3002
+    name: Stage3-2
+    icon: {fileID: 21300000, guid: d28368c3c3127014eacde0b5f7181b4d, type: 3}
+    limitTime: 50
+    nextId: 3003
+    audio: 6
+    allow: 0
+  - id: 3003
+    name: Stage3-3
+    icon: {fileID: 21300000, guid: d28368c3c3127014eacde0b5f7181b4d, type: 3}
+    limitTime: 50
+    nextId: 4001
+    audio: 6
+    allow: 0
+  - id: 4001
+    name: Stage4-1
+    icon: {fileID: 21300000, guid: 0226bab38a64bdf4f9d7d5f08d343bb0, type: 3}
+    limitTime: 50
+    nextId: 4002
+    audio: 8
+    allow: 0
+  - id: 4002
+    name: Stage4-2
+    icon: {fileID: 21300000, guid: 0226bab38a64bdf4f9d7d5f08d343bb0, type: 3}
+    limitTime: 50
+    nextId: 4003
+    audio: 8
+    allow: 0
+  - id: 4003
+    name: Stage4-3
+    icon: {fileID: 21300000, guid: 0226bab38a64bdf4f9d7d5f08d343bb0, type: 3}
+    limitTime: 50
+    nextId: 5001
+    audio: 8
+    allow: 0
+  - id: 5001
+    name: Stage5-1
+    icon: {fileID: 21300000, guid: d96bea1aebfc2244982733f18b449dd6, type: 3}
+    limitTime: 50
+    nextId: 5002
+    audio: 9
+    allow: 0
+  - id: 5002
+    name: Stage5-2
+    icon: {fileID: 21300000, guid: d96bea1aebfc2244982733f18b449dd6, type: 3}
+    limitTime: 50
+    nextId: 7001
+    audio: 9
+    allow: 0
+  - id: 7001
+    name: Stage7-1
+    icon: {fileID: 21300000, guid: 349eb4c895cc06c45a329acd13d9e34a, type: 3}
+    limitTime: 50
+    nextId: 7002
+    audio: 10
+    allow: 0
+  - id: 7002
+    name: Stage7-2
+    icon: {fileID: 21300000, guid: 349eb4c895cc06c45a329acd13d9e34a, type: 3}
+    limitTime: 50
+    nextId: 7003
+    audio: 10
+    allow: 0
+  - id: 7003
+    name: Stage7-3
+    icon: {fileID: 21300000, guid: 349eb4c895cc06c45a329acd13d9e34a, type: 3}
+    limitTime: 50
+    nextId: 8001
+    audio: 10
+    allow: 0
+  - id: 8001
+    name: Stage8-1
+    icon: {fileID: 21300000, guid: 296cb69e063f58c4fb273dc5e2853d1b, type: 3}
+    limitTime: 50
+    nextId: 0
+    audio: 11
+    allow: 0

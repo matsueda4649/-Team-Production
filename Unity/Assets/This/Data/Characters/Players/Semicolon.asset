@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560101685a3e4f643a14dcf0c45c635c, type: 3}
+  m_Name: Semicolon
+  m_EditorClassIdentifier: 
+  m_physicsMaterial2D: {fileID: 6200000, guid: d3bcf198dc391e34595327666afc1872, type: 2}
+  m_moveForceMultiplier: 50
+  m_jumpForce: 13
+  m_moveSpeed: 300
+  m_maxJumpCount: 2

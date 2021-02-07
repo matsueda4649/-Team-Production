@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Texture_UIs
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a8edcb0a12cefb84285f3bb8019edc37, type: 3}
+    totalSpriteSurfaceArea: 4934222
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9af8e63198d8a6a43abff0381d06d468, type: 3}
+  - {fileID: 21300000, guid: 54f63c42affb62c4c936753ab10ca8e3, type: 3}
+  - {fileID: 21300000, guid: 966a6a6258d59e94d8f2696e20f0b9ac, type: 3}
+  - {fileID: 21300000, guid: f77bbdf25e00f44498b1f8bc037bd578, type: 3}
+  - {fileID: 21300000, guid: 8201150390ef90e4eb075502306399d1, type: 3}
+  - {fileID: 21300000, guid: 15766a85a06d6534dbebf3b5192a2168, type: 3}
+  - {fileID: 21300000, guid: 15e61fb6d0968124fbcb43bb5375e25b, type: 3}
+  - {fileID: 21300000, guid: 4cae32172a9a21048a36ac5b5a660c73, type: 3}
+  - {fileID: 21300000, guid: 6548b7384fe55a04aa2ad1bc6d18f24f, type: 3}
+  - {fileID: 21300000, guid: 137c2a090f6684549b59d8389a26fcda, type: 3}
+  - {fileID: 21300000, guid: 3f9f70f9d37d5e841bc378ab109c7a12, type: 3}
+  - {fileID: 21300000, guid: 04933a6aae298054f9ffe94f8b99c53f, type: 3}
+  - {fileID: 21300000, guid: b2418d9a0e022524fbdfe89299606df0, type: 3}
+  - {fileID: 21300000, guid: 75095d6b58871ae4b9111abd5142b0e8, type: 3}
+  - {fileID: 21300000, guid: 545314dc791112c4d8930c2e610e9a59, type: 3}
+  - {fileID: 21300000, guid: 1c0a079dd8c2e154aa39765804d2dd36, type: 3}
+  - {fileID: 21300000, guid: 0148e2cd0c5054a49a60a57448b906ca, type: 3}
+  - {fileID: 21300000, guid: 533a342ed90a37f41be615cdda470870, type: 3}
+  - {fileID: 21300000, guid: c890314e991c51a449738df9e0177ef0, type: 3}
+  - {fileID: 21300000, guid: b9fd8beea7f52234f887552124ab8556, type: 3}
+  - {fileID: 21300000, guid: 46a1fefe5d9e3984a8b3aead6e0a1ce5, type: 3}
+  - {fileID: 21300000, guid: f892463f14956c54d919bb1b947b1e0f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_ ellipsewindow_3
+  - ui_squarewindow_4
+  - ui_squarewindow_9
+  - ui_button_1
+  - ui_button_2
+  - ui_nodeWindow_1
+  - ui_squarewindow_8
+  - ui_operationexplanation_android
+  - ui_squarewindow_2
+  - ui_ ellipsewindow_1
+  - ui_volumeon
+  - ui_squarewindow_6
+  - ui_operationexplanation_pc
+  - ui_volumemute
+  - ui_pause
+  - ui_squarewindow_7
+  - ui_squarewindow_5
+  - ui_circlebutton_1
+  - ui_ ellipsewindow_2
+  - ui_operationexplanation_difficulty
+  - ui_squarewindow_3
+  - ui_squarewindow_1
+  m_Tag: Texture_UIs
+  m_IsVariant: 0

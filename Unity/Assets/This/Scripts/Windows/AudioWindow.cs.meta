@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fc4a408910d20d641966e8cdf81f1c2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_muteIcon: {fileID: 21300000, guid: 5162e90e885d2f94d9418935ac909688, type: 3}
+  - m_unMuteIcon: {fileID: 21300000, guid: e976eaa9010319d4d91c10e1c6ee5e98, type: 3}
+  - m_bgmVolumeSlider: {instanceID: 0}
+  - m_bgmMuteIcon: {instanceID: 0}
+  - m_voiceVolumeSlider: {instanceID: 0}
+  - m_voiceMuteIcon: {instanceID: 0}
+  - m_seVolumeSlider: {instanceID: 0}
+  - m_seMuteIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

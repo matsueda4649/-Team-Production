@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Texture_Backgrounds
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 949d33fcb0e48144886ab95dc9c02839, type: 3}
+    totalSpriteSurfaceArea: 17447904
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4f49e220b3abbea4a8ac8b33f01fafbb, type: 3}
+  - {fileID: 21300000, guid: aa1c5a83097127341843b1e2d1783a58, type: 3}
+  - {fileID: 21300000, guid: 0226bab38a64bdf4f9d7d5f08d343bb0, type: 3}
+  - {fileID: 21300000, guid: d28368c3c3127014eacde0b5f7181b4d, type: 3}
+  - {fileID: 21300000, guid: 2e137624212a4854b865b8c3bfbb934d, type: 3}
+  - {fileID: 21300000, guid: 507cf24651eca31449113b18997e5ead, type: 3}
+  - {fileID: 21300000, guid: fc9c0e27ad701b84ca732675e8c3f1b3, type: 3}
+  - {fileID: 21300000, guid: e825fcd7f488e034b9562916ca54bcba, type: 3}
+  - {fileID: 21300000, guid: 1869bd18fa44c7344be7891ee2c09ff9, type: 3}
+  - {fileID: 21300000, guid: 44474d483c2884a499c22debf60a03ec, type: 3}
+  - {fileID: 21300000, guid: 349eb4c895cc06c45a329acd13d9e34a, type: 3}
+  - {fileID: 21300000, guid: cd0afef9aa0316f46bed1ba206f2465c, type: 3}
+  - {fileID: 21300000, guid: d96bea1aebfc2244982733f18b449dd6, type: 3}
+  - {fileID: 21300000, guid: 71145f1a3e3c62d49bc2d76058206452, type: 3}
+  - {fileID: 21300000, guid: d70bc43b17150d8408d7cc9006b8d993, type: 3}
+  - {fileID: 21300000, guid: d78db38cd0b732240892e0a1cc20e8ea, type: 3}
+  - {fileID: 21300000, guid: ab365ddda5fe8fc4790425dc4fd805bc, type: 3}
+  - {fileID: 21300000, guid: 95b55fed95c643549bd27e1541de95bd, type: 3}
+  - {fileID: 21300000, guid: 4021540ee1e59c24393556785d0f5f7c, type: 3}
+  - {fileID: 21300000, guid: 7d084e8ef7493194393dbae36bbf0fa1, type: 3}
+  - {fileID: 21300000, guid: 296cb69e063f58c4fb273dc5e2853d1b, type: 3}
+  - {fileID: 21300000, guid: 2fde6b4ff97fc454fa0878697c476b5d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bg_icon_daytime
+  - bg_plum_1
+  - bg_ingame_4
+  - bg_icon_mtbackground
+  - bg_icon_night
+  - bg_icon_snow
+  - bg_note
+  - bg_icon_evening
+  - bg_ingame_3
+  - bg_ingame_2
+  - bg_ingame_7
+  - bg_cloud_1
+  - bg_ingame_5
+  - bg_pendulum
+  - bg_tree_1
+  - bg_title_1
+  - bg_plum_2
+  - bg_ingame_1
+  - bg_cherry_1
+  - bg_cloud_2
+  - bg_ingame_8
+  - bg_icon_simplesun
+  m_Tag: Texture_Backgrounds
+  m_IsVariant: 0

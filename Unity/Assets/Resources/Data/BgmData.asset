@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54efd3ff6e9be874d9b87277224e8636, type: 3}
+  m_Name: BgmData
+  m_EditorClassIdentifier: 
+  m_dataAudioList:
+  - id: 1001
+    name: bgm1001
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u30BF\u30A4\u30C8\u30EB"
+  - id: 1002
+    name: bgm1002
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u30B9\u30C6\u30FC\u30B8\u9078\u629E"
+  - id: 1003
+    name: bgm1003
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u3000\u306E\u3069\u304B"
+  - id: 1004
+    name: bgm1004
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u3000\u30D0\u30C8\u30EB"
+  - id: 2001
+    name: bgm2001
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u6751"
+  - id: 2002
+    name: bgm2002
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u96EA"
+  - id: 2003
+    name: bgm2003
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u795E\u79D8\u7684\u306A\u6751"
+  - id: 2004
+    name: bgm2004
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u9759\u304B"
+  - id: 2005
+    name: bgm2005
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u9759\u304B part2"
+  - id: 2006
+    name: bgm2006
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u6E13\u8C37\u3000\u6C11\u65CF\u98A8"
+  - id: 2007
+    name: bgm2007
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u5B87\u5B99\u3063\u307D\u3044"
+  - id: 2008
+    name: bgm2008
+    icon: {fileID: 0}
+    onLoop: 1
+    explanation: "\u30E9\u30B9\u30DC\u30B9\u611F"
